@@ -1,0 +1,34 @@
+.top
+{
+    text-align: center;
+    font-size: x-large;
+}
+.front
+{
+    text-align: center;
+    font-size: x-large;
+
+}
+.ethical
+{
+    font-size: x-large;
+    text-align: center;
+}
+.contact
+{
+    font-size: x-large;
+    text-align: center;
+}
+.body
+{
+    background-color: #02d7f7;
+}
+.hr
+{
+    background-color: white;
+}
+.image
+{
+    height: 300px;
+    width: 300px;
+}
